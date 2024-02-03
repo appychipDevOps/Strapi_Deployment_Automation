@@ -1,0 +1,4 @@
+{
+        "s3_bucket_region": "us-east-1",
+        "s3_bucket_name": "strapi-bucket-3636"
+      }

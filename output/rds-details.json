@@ -1,0 +1,5 @@
+{
+        "database_hostname": "strapi-db.c7g4bxtix7li.us-east-1.rds.amazonaws.com",
+        "database_name": "strapiDB",
+        "database_username": "strapi"
+      }
